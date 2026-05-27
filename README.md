@@ -7,7 +7,7 @@
  https://bkj05.github.io/Lab8_Starter/
 
 ## PWA Installation Screenshot
-![PWA App](pwa.png)
+![PWA App](./screenshot/pwa.png)
 Note: For some reason the icon is only apppering on my github repo url not deployed website url.
 
 ## Graceful Degradation and Service Workers
