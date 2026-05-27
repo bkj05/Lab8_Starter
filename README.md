@@ -4,7 +4,7 @@
 - Benjamin Kettor Jr
 
 ## Deployed GitHub Pages URL
-https://[bkj05].github.io/Lab8_Starter/
+ https://bkj05.github.io/Lab8_Starter/
 
 ## Graceful Degradation and Service Workers
 
